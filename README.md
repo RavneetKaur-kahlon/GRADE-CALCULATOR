@@ -12,4 +12,11 @@ It helps you to get your percentage,grade and varied GPA by just inputting your 
 
 DISCLAIMER:- This a python code written by a 10th grader.
 
+ABOUT ME-
+
+->I am a grade 10th student.(Starting 11th grade)
+
+->Curious about coding - I have learnt basics of HTML and python. 
+
+->Excited to learn more and add new and useful codes more.
 "!!THANKS FOR SUPPORTING!!"
